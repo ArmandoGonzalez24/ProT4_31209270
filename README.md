@@ -1,8 +1,14 @@
 Programas utilizados
-Node.js 
-npm 
-MySQL 
-Postman  
+(Node.js, npm, MySQL, Postman)
+
+Se trabajo sobre una propuesta de una libreria para construir y probar una REST API 
+para la gestión de libros de una biblioteca.
+Utilizando el metodo CRUD
+getAll: Obtiene todos los libros de la base de datos y los devuelve en formato JSON.
+getOne: Obtiene un libro específico por su ID.
+add: Agrega un nuevo libro a la base de datos.
+delete: Elimina un libro de la base de datos utilizando su ISBN.
+update: Actualiza los detalles de un libro existente por su ID.
 
 Instalación
 Clonar el repositorio:
